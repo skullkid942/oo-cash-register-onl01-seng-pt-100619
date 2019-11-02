@@ -7,4 +7,11 @@ def initilaize(total)
   @discount = 20
 end
 
+def total
+  @total = total
+  return total
+end 
+
+
+
 end 
